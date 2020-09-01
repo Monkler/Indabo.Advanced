@@ -1,2 +1,2 @@
-dotnet Indabo/Indabo.dll
+./Indabo/Indabo.exe
 Pause
