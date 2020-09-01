@@ -1,0 +1,4 @@
+[submodule "Indabo"]
+	path = Indabo
+	url = https://github.com/Monkler/Indabo.Core
+	branch = Releases
