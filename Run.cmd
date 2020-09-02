@@ -1,2 +1,2 @@
-./Indabo/Indabo.exe
+.\Indabo\Indabo.exe
 Pause
